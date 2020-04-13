@@ -32,6 +32,7 @@ class _MyAppState extends State<MyApp> {
             videoUrl: "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
             showWidth: 100,
             showHeight: 200,
+            imageType: ImageType.CENTER_INSIDE,
           ),
         ),
       ),

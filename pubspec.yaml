@@ -2,7 +2,7 @@ name: thumbnaillib
 description: 获取视频缩略图的控件.
 version: 0.1.1
 author: Lupy
-homepage:
+homepage: https://github.com/lupengyun/thumbnail_lib
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
